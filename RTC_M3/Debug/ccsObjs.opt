@@ -1,0 +1,1 @@
+"./startup_ccs.obj" "./main_ds1687.obj" -l"C:\Users\nbpub01\workspace_v5_4\RTC_M3\driverlib.lib" -l"rtsv7M3_T_le_eabi.lib" "../F28M35x_generic_wshared_M3_RAM.cmd" "../driverlib.lib" 
